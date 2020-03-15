@@ -29,3 +29,5 @@ The content of this site is managed by DatoCMS.
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d2ea588-1afc-486d-851f-9923d0def1ae/deploy-status)](https://app.netlify.com/sites/nocodelist/deploys)
